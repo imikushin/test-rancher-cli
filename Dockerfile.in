@@ -1,0 +1,3 @@
+FROM alpine
+ENV REV=1
+CMD ["sh"]

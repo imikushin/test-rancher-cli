@@ -1,0 +1,6 @@
+version: '2'
+services:
+  myalpine:
+    image: quay.io/imikushin/myalpine:wtf
+    command: sh
+    tty: true
